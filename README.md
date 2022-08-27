@@ -1,2 +1,6 @@
 # QUADRATIC-EQUATION
-SOLUTION OF QUADRATIC EQUATION
+  Простая программа по решению квалратных уравнений
+#Документация
+  
+
+  
