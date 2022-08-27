@@ -26,4 +26,7 @@ https://github.com/SoulGoodman54/QUADRATIC-EQUATION/blob/main/QUADRATIC%20EQUATI
 
 ![image](https://user-images.githubusercontent.com/111996683/187027110-eefbce3c-c194-44b9-b977-9502ba4b072f.png)
 
+## Сборка
+
+https://github.com/SoulGoodman54/QUADRATIC-EQUATION/blob/main/Makefile
 
