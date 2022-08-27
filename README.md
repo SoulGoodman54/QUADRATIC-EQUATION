@@ -28,5 +28,9 @@ https://github.com/SoulGoodman54/QUADRATIC-EQUATION/blob/main/QUADRATIC%20EQUATI
 
 ## Сборка
 
-https://github.com/SoulGoodman54/QUADRATIC-EQUATION/blob/main/Makefile
+Чтобы собрать проект, нужно директиве проекта пропистать **make out**
+
+Чтобы его запустить, нужно прописать **./out**
+
+Чтобы запустить Unit Test, нуджно прописать **./out -ut**
 
